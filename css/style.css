@@ -1,0 +1,356 @@
+*{
+	font-family: 'Poppins', sans-serif;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-decoration: none;
+	box-sizing: border-box;
+}
+
+.navbar .navbar-nav .nav-link{
+	font-size: 15px;
+	color: #fff;
+	text-transform: capitalize;
+}
+.sky-color{
+	    color: #05f5ff;
+}
+/*color: #0a141e;
+ #007aff;*/
+
+ .token-sale{
+   height:100vh ;
+background-size: cover;
+  width:100% ;
+
+  background-color: #1e5aff;
+}
+.start{
+	    border-radius: 8px;
+    padding: 5px 14px;
+	outline: none;
+	border: none;
+	color: white;
+	    cursor: pointer;
+    display: inline-block;
+    opacity: 1;
+    transition: .3s;
+	font-size: 13px;
+	background-color: #ff3700;
+}
+
+ .phone h1{
+    font-size: 50px;
+    color: #fff;
+    font-weight: 600;
+    line-height: 60px;
+}
+.phone p{
+    font-size: 15px;
+    color: #fff;
+}
+.telegram{
+    margin-right: 12px;
+
+    border-radius: 10px;
+    padding: 12px 22px;
+	outline: none;
+	border: none;
+	color: white;
+	    cursor: pointer;
+    display: inline-block;
+    opacity: 1;
+    transition: .3s;
+	font-size: 16px;
+	background-color: #ff3700;	
+}
+
+.icons i{
+    margin-right: 10px;
+    margin-top: 20px;
+
+color: #ffff;
+	    cursor: pointer;
+    display: inline-block;
+ 
+	font-size: 20px;
+	
+}
+.rating{
+	background-color: #0a141e;
+	color: #fff;
+}
+.rating img{
+	width: 30px;
+}
+.chatex-numbers h1{
+	color:#11263a ;
+font-size: 50px;
+font-weight: 600;
+}
+.chatex-numbers h2{
+color: #1e5aff ;
+font-size: 50px;
+font-weight: 600;
+}
+.card-color{
+	/*background-color:#05f5ff ;*/
+	background-color: rgba(226,241,255,.6);
+border-radius: 20px;
+	padding: 18px 15px;
+	margin-right: 10px;
+}
+
+.best h1{
+
+font-size: 70px;
+font-weight: 700;
+
+}
+/*store*/
+.butt{
+    margin-right: 12px;
+
+    border-radius: 10px;
+    padding: 12px 19px;
+	
+	border: none;
+
+	    cursor: pointer;
+    background-color: white;
+   
+ 
+	font-size: 16px;
+box-shadow: 0 0 20px 0px rgba(0, 0, 10, 0.2);
+}
+
+.store h1{
+
+font-size: 60px;
+font-weight: 700;
+
+}
+
+.store p{
+	line-height: 35px;
+}
+
+/*money*/
+.money h1{
+
+font-size: 60px;
+font-weight: 700;
+
+}
+.money p{
+	line-height: 35px;
+}
+/*support*/
+.support .color{
+	background-color: #f0f9ff;
+    border-radius: 20px;
+}
+.support h1{
+
+font-size: 60px;
+font-weight: 700;
+
+}
+
+.everyone h1{
+
+font-size: 50px;
+font-weight: 700;
+}
+.everyone .individual {
+    background-color: #1e5aff;
+    color: #fff;
+      border-radius: 20px 0px 20px 0;
+      left: 0;
+ padding: 10px;
+}
+
+
+.everyone .blue {
+    background-color: #1e5aff;
+    color: #fff;
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.2);
+}
+.everyone .darkblue{
+    background-color: #11263a;
+    color: #fff;
+}
+.radius{
+	border-radius: 20px;
+
+}
+/*earn*/
+.earn {
+   background-color: #1e5aff;
+}
+.earn h1{
+color: #fff;
+font-size: 50px;
+font-weight: 700;
+}
+
+.earn button{
+	color: white;
+	border:1px solid white;
+background-color:#1e5aff; 
+	padding: 10px 15px;
+	display: inline-block;
+	margin-top: 10px;
+	border-radius: 15px;
+}
+
+.service-but{
+	color: black;
+	border:1px solid white;
+background-color: #edf2f6;
+	padding: 10px 15px;
+	display: inline-block;
+	margin-top: 10px;
+	border-radius: 15px;
+}
+.earn .word{
+	word-spacing: 20px;
+}
+
+.service h1{
+
+font-size: 50px;
+font-weight: 700;
+}
+
+
+.service h5{
+
+font-size: 30px;
+color: black;
+font-weight: 600;
+}
+
+.line-bottom{
+	border-bottom: 8px solid #1e5aff;
+}
+
+/*reviews*/
+
+.reviews h1{
+
+font-size: 50px;
+font-weight: 700;
+}
+/*community*/
+
+.community h1{
+
+font-size: 50px;
+font-weight: 700;
+}
+
+.community h2{
+
+font-size: 150px;
+font-weight: 700;
+color: #1e5aff;
+word-spacing: 30px;
+}
+.community img{
+	margin-bottom: 15px;
+}
+.show{
+	border-radius: 10px;
+	border: 1px solid black;
+	background-color: white;
+	color: black;
+	display: inline-block;
+	margin-top: 30px;
+	padding: 10px 15px;
+}
+
+.show:hover{
+	background-color: #edf2f6; 
+
+}
+/*learn more*/
+.learnmore h1{
+
+font-size: 60px;
+font-weight: 700;
+text-transform: uppercase;
+margin-bottom: 20px;
+
+}
+.learnmore h3:hover{
+	color: #1e5aff ;
+}
+/*simple*/
+.simple{
+	background-color: #1e5aff  ;
+}
+.simple img{
+	max-width: 420px;
+}
+/*last*/
+ .last{
+	background-color:#212529;
+}
+.dark{
+	background-color:#0a141e;;
+}
+.icon{
+	border-radius: 50%;
+	background-color: white;
+	color: black;
+	padding: 10px;
+
+}
+.best p{
+	text-align: center;
+}
+.last p{
+	font-size: 13px;
+}
+.last li{
+	color: #fff;
+	line-height: 30px;
+	font-size: 13px;
+}
+@media (max-width: 768px){
+ .phone h1{
+    font-size: 80px;
+    margin-top: 20px;
+    color: #fff;
+    font-weight: 600;
+    line-height:80px
+
+}
+.phone p{
+    font-size: 25px;
+    margin-top: 10px;
+    color: #fff;
+}
+.telegram{
+    margin-right: 12px;
+
+    border-radius: 10px;
+    padding: 12px 22px;
+	outline: none;
+	border: none;
+	color: white;
+	    cursor: pointer;
+    display: inline-block;
+    opacity: 1;
+    transition: .3s;
+	font-size: 16px;
+	background-color: #ff3700;	
+}
+.best p{
+	text-align: left;
+}
+.community h1{
+	margin: 20px 0;
+}
+}
